@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HRM.API/HRM.API.csproj" />
+  <Project Path="HRM.AppHost/HRM.AppHost.csproj" />
+  <Project Path="HRM.ServiceDefaults/HRM.ServiceDefaults.csproj" />
+</Solution>

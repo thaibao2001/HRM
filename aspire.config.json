@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "HRM.AppHost/HRM.AppHost.csproj"
+  }
+}
